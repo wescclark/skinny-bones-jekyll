@@ -34,7 +34,7 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: "/images/face.jpg" # 160x160 px image for author byline
+  avatar: face.jpg # 160x160 px image for author byline
   disqus-shortname:
 
 
