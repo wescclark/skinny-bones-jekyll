@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: About Update and Titanic Link
 ---
 
