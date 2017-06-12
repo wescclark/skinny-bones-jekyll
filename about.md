@@ -1,0 +1,20 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+I am a current post-doc at the University of Chicago in the Pan Lab. After a small foray into bioinformatics, I decided to dive into data completely. I moved from a purely experimental approach to investigating RNA into a data-driven bioinformatics and statistical approach to sequencing data.
+
+### About Me
+Coffee and turtles! Thanks, Haneul!
+
+![Tartar!](https://raw.githubusercontent.com/wescclark/wescclark.github.io/master/images/0606171801a.jpg)
+
+### My Google Scholar Page
+
+[Google Scholar](https://scholar.google.com/citations?user=kkj41fsAAAAJ&hl=en&oi=sra)
+
+### Contact me
+
+[wesleycclark@gmail.com](mailto:wesleycclark@gmail.com)
