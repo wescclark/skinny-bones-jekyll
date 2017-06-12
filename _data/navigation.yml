@@ -1,11 +1,11 @@
 # Site navigation links
 
--title: About Me
+- title: About Me
   url: /about/
   excerpt: "Just a little about me"
   image:
 
--title: Listed Projects
- url: /notebooks/
- excerpt: "The heart of darkness"
- image:
+- title: Listed Projects
+  url: /notebooks/
+  excerpt: "The heart of darkness"
+  image:
