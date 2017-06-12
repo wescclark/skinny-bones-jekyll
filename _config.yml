@@ -5,7 +5,7 @@ description: "The beginnings of a data science foray"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: "wescclark.github.io"
 feed:
   path: atom.xml
 
@@ -28,12 +28,13 @@ gems:
 owner:
   name: "Wesley Clark"
   email: "wesleycclark@gmail.com"
+  linkedin: "wesley-c-clark"
   twitter:
   google:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: "/images/face.jpg" # 160x160 px image for author byline
   disqus-shortname:
 
 
