@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "The Descent into Data Madness"
+title: "The Descent into Data"
 description: "The beginnings of a data science dive"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
