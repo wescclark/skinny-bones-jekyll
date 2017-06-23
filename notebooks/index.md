@@ -10,7 +10,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.articless %}
+{% for post in site.categories.articles %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
